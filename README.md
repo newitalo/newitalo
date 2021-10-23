@@ -7,6 +7,9 @@
 - 📏 PT/EN/FR
  
 ##
+
+<img align="left" height="330" style="border-radius:50px;" src="https://media.discordapp.net/attachments/482737078606626838/901506350209699871/tanatos.png?width=540&height=602">
+
 <div align="centerleft">
   <a href="https://github.com/newitalo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newitalo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como analista de redes. 
 - 💻 Estou estudando Django e Ruby
 - 😄 Pronomes: Ele/Dele <br>
-- 📚 Análive e desenvolvimento de sistemas (2016) / Ciências da computação (2021)
+- 📚 Análise e desenvolvimento de sistemas (2016) / Ciências da computação (2021)
 - 📏 PT/EN/FR
  
 ##

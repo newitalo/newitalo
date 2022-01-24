@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Italo! 
 
-- 🔭 Hoje trabalho como analista de redes. 
-- 💻 Estou estudando Django e Ruby
+- 🔭 Hoje trabalho com segurança da informação.
+- 💻 Estou estudando o pfSense 
 - 😄 Pronomes: Ele/Dele <br>
 - 📚 Análise e desenvolvimento de sistemas (2016) / Ciências da computação (2021)
 - 📏 PT/EN/FR

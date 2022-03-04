@@ -5,6 +5,7 @@
 - 😄 Pronomes: Ele/Dele <br>
 - 📚 Análise e desenvolvimento de sistemas (2016) / Ciências da computação (2021)
 - 📏 PT/EN/FR
+- 📓 Meu currículo: https://bit.ly/3hHs6hT
  
 ##
 
